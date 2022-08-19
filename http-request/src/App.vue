@@ -48,11 +48,8 @@ export default {
           this.itemsList.push(save_response.data);
           e.target.value = "";
           e.target.focus();
-
-          console.log("bos");
         });
     },
-
   },
 };
 </script>

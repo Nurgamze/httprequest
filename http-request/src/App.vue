@@ -49,7 +49,7 @@ export default {
           e.target.value = "";
           e.target.focus();
 
-          console.log("bos")
+          console.log("bos");
         });
     },
 
